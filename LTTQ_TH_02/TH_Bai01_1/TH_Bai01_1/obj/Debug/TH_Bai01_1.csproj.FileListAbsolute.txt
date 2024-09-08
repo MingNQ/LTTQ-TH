@@ -1,0 +1,10 @@
+F:\Users\Ming\CSharp\Code\LTTQ_TH_02\TH_Bai01_1\TH_Bai01_1\bin\Debug\TH_Bai01_1.exe.config
+F:\Users\Ming\CSharp\Code\LTTQ_TH_02\TH_Bai01_1\TH_Bai01_1\bin\Debug\TH_Bai01_1.exe
+F:\Users\Ming\CSharp\Code\LTTQ_TH_02\TH_Bai01_1\TH_Bai01_1\bin\Debug\TH_Bai01_1.pdb
+F:\Users\Ming\CSharp\Code\LTTQ_TH_02\TH_Bai01_1\TH_Bai01_1\obj\Debug\TH_Bai01_1.csproj.AssemblyReference.cache
+F:\Users\Ming\CSharp\Code\LTTQ_TH_02\TH_Bai01_1\TH_Bai01_1\obj\Debug\TH_Bai01_1.Form1.resources
+F:\Users\Ming\CSharp\Code\LTTQ_TH_02\TH_Bai01_1\TH_Bai01_1\obj\Debug\TH_Bai01_1.Properties.Resources.resources
+F:\Users\Ming\CSharp\Code\LTTQ_TH_02\TH_Bai01_1\TH_Bai01_1\obj\Debug\TH_Bai01_1.csproj.GenerateResource.cache
+F:\Users\Ming\CSharp\Code\LTTQ_TH_02\TH_Bai01_1\TH_Bai01_1\obj\Debug\TH_Bai01_1.csproj.CoreCompileInputs.cache
+F:\Users\Ming\CSharp\Code\LTTQ_TH_02\TH_Bai01_1\TH_Bai01_1\obj\Debug\TH_Bai01_1.exe
+F:\Users\Ming\CSharp\Code\LTTQ_TH_02\TH_Bai01_1\TH_Bai01_1\obj\Debug\TH_Bai01_1.pdb

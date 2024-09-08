@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Users\\Ming\\CSharp\\Code\\LTTQ_TH_02\\TH_Bai01_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D45707-B30D-4E60-8BD6-FB6DA356B276}|TH_Bai01_1\\TH_Bai01_1.csproj|f:\\users\\ming\\csharp\\code\\lttq_th_02\\th_bai01_1\\th_bai01_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15D45707-B30D-4E60-8BD6-FB6DA356B276}|TH_Bai01_1\\TH_Bai01_1.csproj|solutionrelative:th_bai01_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D45707-B30D-4E60-8BD6-FB6DA356B276}|TH_Bai01_1\\TH_Bai01_1.csproj|f:\\users\\ming\\csharp\\code\\lttq_th_02\\th_bai01_1\\th_bai01_1\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D45707-B30D-4E60-8BD6-FB6DA356B276}|TH_Bai01_1\\TH_Bai01_1.csproj|solutionrelative:th_bai01_1\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D45707-B30D-4E60-8BD6-FB6DA356B276}|TH_Bai01_1\\TH_Bai01_1.csproj|f:\\users\\ming\\csharp\\code\\lttq_th_02\\th_bai01_1\\th_bai01_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D45707-B30D-4E60-8BD6-FB6DA356B276}|TH_Bai01_1\\TH_Bai01_1.csproj|solutionrelative:th_bai01_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D45707-B30D-4E60-8BD6-FB6DA356B276}|TH_Bai01_1\\TH_Bai01_1.csproj|f:\\users\\ming\\csharp\\code\\lttq_th_02\\th_bai01_1\\th_bai01_1\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D45707-B30D-4E60-8BD6-FB6DA356B276}|TH_Bai01_1\\TH_Bai01_1.csproj|solutionrelative:th_bai01_1\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaticData.cs",
+              "DocumentMoniker": "F:\\Users\\Ming\\CSharp\\Code\\LTTQ_TH_02\\TH_Bai01_1\\TH_Bai01_1\\StaticData.cs",
+              "RelativeDocumentMoniker": "TH_Bai01_1\\StaticData.cs",
+              "ToolTip": "F:\\Users\\Ming\\CSharp\\Code\\LTTQ_TH_02\\TH_Bai01_1\\TH_Bai01_1\\StaticData.cs",
+              "RelativeToolTip": "TH_Bai01_1\\StaticData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T01:59:21.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonHoc.cs",
+              "DocumentMoniker": "F:\\Users\\Ming\\CSharp\\Code\\LTTQ_TH_02\\TH_Bai01_1\\TH_Bai01_1\\MonHoc.cs",
+              "RelativeDocumentMoniker": "TH_Bai01_1\\MonHoc.cs",
+              "ToolTip": "F:\\Users\\Ming\\CSharp\\Code\\LTTQ_TH_02\\TH_Bai01_1\\TH_Bai01_1\\MonHoc.cs",
+              "RelativeToolTip": "TH_Bai01_1\\MonHoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T01:58:21.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Users\\Ming\\CSharp\\Code\\LTTQ_TH_02\\TH_Bai01_1\\TH_Bai01_1\\Form1.cs",
+              "RelativeDocumentMoniker": "TH_Bai01_1\\Form1.cs",
+              "ToolTip": "F:\\Users\\Ming\\CSharp\\Code\\LTTQ_TH_02\\TH_Bai01_1\\TH_Bai01_1\\Form1.cs",
+              "RelativeToolTip": "TH_Bai01_1\\Form1.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAhwHQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T01:30:40.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Users\\Ming\\CSharp\\Code\\LTTQ_TH_02\\TH_Bai01_1\\TH_Bai01_1\\Form1.cs",
+              "RelativeDocumentMoniker": "TH_Bai01_1\\Form1.cs",
+              "ToolTip": "F:\\Users\\Ming\\CSharp\\Code\\LTTQ_TH_02\\TH_Bai01_1\\TH_Bai01_1\\Form1.cs [Design]",
+              "RelativeToolTip": "TH_Bai01_1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T01:25:29.31Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
